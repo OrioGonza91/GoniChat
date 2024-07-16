@@ -8,9 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/app.js",
     "start": "node ./src/app.js"
-  }, "engines": {
-    "node": ">= 14.17.6"
-  } ,
+  },
+  "engines": {
+    "node": ">=14.17.6"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
